@@ -34,7 +34,7 @@
  
  <div align="left">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samnay2002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&layout=compact)](https://github.com/samnay2002/github-readme-stats)
+  <a href="https://github.com/samnay2002/github-readme-stats"><img alt="Sanmay das's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samnay2002&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
  </div> 
  
@@ -48,7 +48,7 @@
 <!--  <h2 align="center">📈My Contribution</h2> -->
  <br/>
  
-[![Sanmay's github activity graph](https://activity-graph.herokuapp.com/graph?username=samnay2002&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/samnay2002/github-readme-activity-graph)
+<a href="https://github.com/samnay2002/github-readme-activity-graph"><img alt="Sanmay das's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=samnay2002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  
  </div>
 <div align = "left">
