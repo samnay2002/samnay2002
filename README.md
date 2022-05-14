@@ -23,20 +23,20 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anik0810&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samnay2002&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
  <h3 align="center">📊My Github Stats</h3>
  <br/>
  
 <!--  <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anik0810&hide_border=true&layout=compact)](https://github.com/anik0810/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samnay2002&hide_border=true&layout=compact)](https://github.com/samnay2002/github-readme-stats)
   
  </div> -->
  
   <div align="center">
   
-  ![Anik's GitHub stats](https://github-readme-stats.vercel.app/api?username=anik0810&show_icons=true&hide_border=true&theme=radical)
+  ![Sanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=samnay2002&show_icons=true&hide_border=true&theme=radical)
   
  </div>
 
@@ -44,6 +44,6 @@
  <h3 align="center">📈My Contribution</h3>
  <br/>
  
-[![Anik's github activity graph](https://activity-graph.herokuapp.com/graph?username=anik0810&theme=rogue)](https://github.com/anik0810/github-readme-activity-graph)
+[![Sanmay's github activity graph](https://activity-graph.herokuapp.com/graph?username=samnay2002&theme=rogue)](https://github.com/samnay2002/github-readme-activity-graph)
  
  </div>
