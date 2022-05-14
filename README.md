@@ -16,10 +16,10 @@
  
 <h2 align="left">✅ My profiles:</h2>
 <p align="left">
-<a href="https://www.codechef.com/users/sanmay_321" target="blank"><img src='https://cdn.codechef.com/sites/all/themes/abessive/cc-logo-sd.svg' alt='codechef' height='30' ></a>
-<a href="https://www.hackerrank.com/sanmaydas2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanmaydas2002" height="40" width="30" /></a>
-<a href="https://www.leetcode.com/sanmaynemo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanmaynemo" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nemo2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nemo2002" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sanmay_321" target="blank"><img src='https://cdn.codechef.com/sites/all/themes/abessive/cc-logo-sd.svg' alt='codechef' height='40' ></a>
+<a href="https://www.hackerrank.com/sanmaydas2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanmaydas2002" height="60" /></a>
+<a href="https://www.leetcode.com/sanmaynemo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanmaynemo" height="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/nemo2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nemo2002" height="40" /></a>
 </p>
 
 <h2 align="left">🚀 Languages and Tools:</h2>
@@ -57,3 +57,7 @@
 <a href="https://linkedin.com/in/thesanmaynemo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thesanmaynemo" height="30" width="40" /></a>
 <a href="https://instagram.com/sanmay_nemo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanmay_nemo" height="30" width="40" /></a>
  </div>
+ 
+ <div align ="center">
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+</div>
