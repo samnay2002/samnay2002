@@ -8,8 +8,8 @@
  <li>🌱 I’m currently learning React Js and Advance DSA<br/>
  <li>💬 Ask me about Web Devolopment <br/>
  <li>🎯Goal in 2022 is to be a expert Full Stack Web Devoloper <br/>
- <li>🤷‍ For Detailed Information check it <a href="https://drive.google.com/file/d/1XYw6NpVq37PbjRfVgcwwtQVWWYiWiy31/view?usp=sharing">My CV</a><br/>
- <li>📫 How to reach me: <a href="mailto:@sanmaydas2002@gmail.com">anikdutta0810@gmail.com</a> <br/>
+ <li>🤷‍ For Detailed Information check it <a href="https://drive.google.com/file/d/1umZ6o7sQAMRpmcJd-hjM5YZ_Mdfjg01a/view?usp=sharing">My CV</a><br/>
+ <li>📫 How to reach me: <a href="mailto:@sanmaydas2002@gmail.com">sanmaydas2002@gmail.com</a> <br/>
  </ul>
 </p1>
  </div>
