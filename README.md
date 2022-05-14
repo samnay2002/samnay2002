@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanmay das</h1>
 </hr>
-<h2 align="center">B.Tech student at Sister Nivedita University.Doing Competitive programming at Codechef</h2>
+<h3 align="center">B.Tech student at Sister Nivedita University.Doing Competitive programming at Codechef</h3>
 <div allign ="center">
  </br>
 <h2 align="left">💁‍♂️About Me</h2>
@@ -45,7 +45,7 @@
  </div>
 
  
- <h2 align="center">📈My Contribution</h2>
+<!--  <h2 align="center">📈My Contribution</h2> -->
  <br/>
  
 [![Sanmay's github activity graph](https://activity-graph.herokuapp.com/graph?username=samnay2002&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/samnay2002/github-readme-activity-graph)
