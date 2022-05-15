@@ -27,20 +27,20 @@
 <br/>
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samnay2002&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanmay321&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
  <h2 align="left">📊My Github Stats</h2>
  <br/>
  
  <div align="left">
   
-  <a href="https://github.com/samnay2002/github-readme-stats"><img alt="Sanmay das's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samnay2002&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/sanmay321/github-readme-stats"><img alt="Sanmay das's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanmay321&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
  </div> 
  
   <div align="left">
   
-  ![Sanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=samnay2002&show_icons=true&hide_border=true&theme=react&hide_border=true&bg_color=0D1117)
+  ![Sanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanmay321&show_icons=true&hide_border=true&theme=react&hide_border=true&bg_color=0D1117)
   
  </div>
 
@@ -48,7 +48,7 @@
 <!--  <h2 align="center">📈My Contribution</h2> -->
  <br/>
  
-<a href="https://github.com/samnay2002/github-readme-activity-graph"><img alt="Sanmay das's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=samnay2002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/sanmay321/github-readme-activity-graph"><img alt="Sanmay das's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sanmay321&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  
  </div>
 <div align = "left">
