@@ -1,6 +1,6 @@
-<div align="center"><img src="https://raw.githubusercontent.com/sanmay321/sanmay321/main/_Pngtree_illustration_research_and_development_4349070-removebg-preview.png" height="300rem"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/sanmay321/sanmay321/main/_Pngtree_illustration_research_and_development_4349070-removebg.png" height="450rem"></div>
 <br/>
-<h1 align="center">Hi 👋, I'm Sanmay das</h1>
+<h1 align="center">Hi there 👋, I'm Sanmay das</h1>
 </hr>
 <h3 align="center">B.Tech student at Sister Nivedita University.Doing Competitive programming at Codechef</h3>
 <div allign ="center">
