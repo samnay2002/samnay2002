@@ -1,4 +1,4 @@
-<div align="center"><img src="https://raw.githubusercontent.com/sanmay321/sanmay321/main/%E2%80%94Pngtree%E2%80%94illustration%20research%20and%20development_4349070.png" height="300rem"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/sanmay321/sanmay321/main/_Pngtree_illustration_research_and_development_4349070-removebg-preview.png" height="300rem"></div>
 <br/>
 <h1 align="center">Hi 👋, I'm Sanmay das</h1>
 </hr>
