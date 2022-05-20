@@ -5,6 +5,7 @@
 <h3 align="center">B.Tech student at Sister Nivedita University.Doing Competitive programming at Codechef</h3>
 <div allign ="center">
  </br>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanmay321&label=Profile%20views&color=0e75b6&style=flat" alt="sanmay321" /> </p>
 <h2 align="left">💁‍♂️About Me</h2>
 <ul line-height="3">
  <li>🌱 I’m currently learning android dev and Advance DSA<br/>
