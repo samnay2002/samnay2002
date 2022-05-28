@@ -18,7 +18,7 @@
  
 <h2 align="left">✅ My profiles:</h2>
 <p align="left">
-<a href="https://www.codechef.com/users/sanmay_321" target="blank"><img src='https://cdn.codechef.com/sites/all/themes/abessive/cc-logo-sd.svg' alt='codechef' height='40' ></a>
+<a href="https://www.codechef.com/users/sanmay320" target="blank"><img src='https://cdn.codechef.com/sites/all/themes/abessive/cc-logo-sd.svg' alt='codechef' height='40' ></a>
 <a href="https://www.hackerrank.com/sanmaydas2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanmaydas2002" height="60" /></a>
 <a href="https://www.leetcode.com/sanmaynemo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanmaynemo" height="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nemo2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nemo2002" height="40" /></a>
