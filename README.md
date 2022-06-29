@@ -107,12 +107,12 @@
 <a  target="_blank"> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white " alt="alt"/> </a> 
 <a  target="_blank"> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white " alt="alt"/> </a> 
 <a  target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white " alt="alt"/> </a> 
-<a  target="_blank"> <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white " alt="alt"/> </a> 
-<a  target="_blank"> <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white " alt="alt"/> </a> 
+<!-- <a  target="_blank"> <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white " alt="alt"/> </a>  -->
+<!-- <a  target="_blank"> <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white " alt="alt"/> </a> 
 <a  target="_blank"> <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white " alt="alt"/> </a> 
 <a  target="_blank"> <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white " alt="alt"/> </a> 
-<a  target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white " alt="alt"/> </a> 
- -->
+<a  target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white " alt="alt"/> </a>  -->
+
 
 </br>
 </br>	
