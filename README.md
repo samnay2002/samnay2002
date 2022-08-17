@@ -10,7 +10,7 @@
  <li>🌱 I’m currently learning android dev and Advance DSA<br/>
  <li>💬 Ask me about android Devolopment <br/>
  <li>🎯Goal in 2022 is to be a good problem solver <br/>
- <li>🤷‍ For Detailed Information check it <a href="https://drive.google.com/file/d/1umZ6o7sQAMRpmcJd-hjM5YZ_Mdfjg01a/view?usp=sharing">My CV</a><br/>
+ <li>🤷‍ For Detailed Information check it <a href="https://drive.google.com/file/d/1EsuAa1mgmYthFpVtjNcQiZFz0YVkQ7Vz/view?usp=sharing">My CV</a><br/>
  <li>📫 How to reach me: <a href="mailto:@sanmaydas2002@gmail.com">sanmaydas2002@gmail.com</a> <br/>
  </ul>
 </p1>
