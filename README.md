@@ -1,6 +1,5 @@
 <br/>
-<h1 align="center">Hi there 👋, I'm Sanmay das</h1>
-</hr>
+ <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=40&pause=1000&color=F5F7F6&center=true&vCenter=true&width=435&lines=hello+there+%F0%9F%91%8B++;this+is+sanmay" alt="Typing SVG" /></a>
 <h3 align="center">B.Tech student at Sister Nivedita University.Doing Competitive programming at Codechef</h3>
 <div allign ="center">
  </br>
