@@ -29,6 +29,7 @@
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanmay321&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![@sanmay_nemo's Holopin board](https://holopin.me/sanmay_nemo)](https://holopin.io/@sanmay_nemo)
  
  <h2 align="left">📊My Github Stats</h2>
  <br/>
