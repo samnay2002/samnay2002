@@ -42,9 +42,9 @@
  </div> 
  
   <div align="left">
-  
- ![Sanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanmay321&show_icons=true&hide_border=true&theme=react&bg_color=0D1117)
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanmay321&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanmay321&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  ![Sanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanmay321&show_icons=true&hide_border=true&theme=react&bg_color=0D1117)
+
   
  </div>
 
