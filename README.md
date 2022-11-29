@@ -28,7 +28,8 @@
 <br/>
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanmay321&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<h2 align="left"> hacktoberfest 2022:</h2>
+
 [![@sanmay_nemo's Holopin board](https://holopin.me/sanmay_nemo)](https://holopin.io/@sanmay_nemo)
  
  <h2 align="left">📊My Github Stats</h2>
@@ -42,7 +43,8 @@
  
   <div align="left">
   
-  ![Sanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanmay321&show_icons=true&hide_border=true&theme=react&hide_border=true&bg_color=0D1117)
+  ![Sanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanmay321&show_icons=true&hide_border=true&theme=react&bg_color=0D1117)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanmay321&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
  </div>
 
