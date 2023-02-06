@@ -1,3 +1,4 @@
+![MasterHead](https://miro.medium.com/max/1200/0*dVlRfvc6b66esZkb)
 <br/>
  <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=40&pause=1000&color=F5F7F6&center=true&vCenter=true&width=435&lines=hello+there+%F0%9F%91%8B++;this+is+sanmay" alt="Typing SVG" /></a>
 <h3 align="center">B.Tech student at Sister Nivedita University.Doing Competitive programming at Codechef</h3>
@@ -5,6 +6,7 @@
  </br>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanmay321&label=Profile%20views&color=0e75b6&style=flat" alt="sanmay321" /> </p>
 <h2 align="left">💁‍♂️About Me</h2>
+<img align="right" alt="Coding" width="400" src="https://comit.rs/wp-content/uploads/2020/06/Design.svg">
 <ul line-height="3">
  <li>🌱 I’m currently learning android dev and Advance DSA<br/>
  <li>💬 Ask me about android Devolopment <br/>
